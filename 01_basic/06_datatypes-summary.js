@@ -20,3 +20,5 @@ const myFunction=function(){
 //to find datatype
 
 console.log(typeof myFunction);
+
+//stack -> Primitive , Heap->Non-Primitive  
